@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Mobile Development.
 - 💻 I'm looking for an internship, or a Junior Development role.
 - 👯 My main objective is to collaborate on building robust and scalable back-end systems and managing databases efficiently.
-- 😅 Pronouns: He/His
+- 😅 Pronouns: He/Him
 - 📫 How to reach me: gabrielbenicioo@gmail.com
 - ⚡ Fun fact: I like solving complex puzzles and challenges, both in coding and in real life.
 
