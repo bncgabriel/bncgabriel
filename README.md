@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gabriel Benicio</h1>
-<h3 align="center">A Devops Developer</h3>
+<h3 align="center">A BackEnd Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bncgabriel&label=Profile%20views&color=0e75b6&style=flat" alt="bncgabriel" /> </p>
 
 - 🌱 I’m currently learning **more about DevOps and CyberSecurity**
 
-- 💬 Ask me about **DevOps, K8S, Linux, ShellScript**
+- 💬 Ask me about **Java, SpringBoot, Spring Webflux, Linux**
 
 - 📫 How to reach me **gabrielbenicioo@gmail.com**
 
