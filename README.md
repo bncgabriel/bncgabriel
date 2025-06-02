@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=bncgabriel&label=Profile%20views&color=0e75b6&style=flat" alt="bncgabriel" />
 </p>
 
-- 🌱 I’m currently learning **more about DevOps and CyberSecurity**
+- 🌱 I’m currently learning **more about Spring WebFlux**
 
 - 💬 Ask me about **Java, Spring Boot, Spring WebFlux, Python, FastAPI, SQLAlchemy, Django, Linux**
 
