@@ -1,4 +1,3 @@
-<!-- Banner Animado -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Gabriel%20Benicio&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </p>
@@ -8,15 +7,12 @@
 
 ---
 
-### ⚡ About Me  
-💡 Passionate about **clean code** and **scalable architecture**  
-🌱 Currently learning **Spring WebFlux & Reactive Programming**  
-🛠️ Tech Enthusiast: **Java, Python, DevOps & Cloud**  
-📫 Contact: **gabrielbenicioo@gmail.com**
+### ⚡ About Me
+💡 Passionate about **clean code** and **scalable architecture** 🌱 Currently learning **Spring WebFlux & Reactive Programming** 🛠️ Tech Enthusiast: **Java, Python, DevOps & Cloud** 📫 Contact: **gabrielbenicioo@gmail.com**
 
 ---
 
-### 🌎 Connect with Me  
+### 🌎 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/gabriel-benicioo" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -31,40 +27,42 @@
 
 ---
 
-### 🛠️ Tech Stack  
+### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,django,postgresql,mysql,docker,git,linux" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=bncgabriel&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=bncgabriel&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=bncgabriel&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bncgabriel&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🚀 Featured Projects  
+<img src="https://raw.githubusercontent.com/bncgabriel/bncgabriel/output/snake-dark.svg" alt="Snake animation" />
+
+---
+
+### 🚀 Featured Projects
 🔹 [📦 FastAPI Project Template](#) – Boilerplate for scalable APIs  
 🔹 [📝 Spring Boot CRUD API](#) – REST principles + clean architecture  
 🔹 [⚡ Reactive WebFlux App](#) – Async & non-blocking programming  
 
 ---
 
-### 🎯 Fun Facts  
-- 🐧 Linux power user  
-- 🎮 Gamer after hours  
-- ☕ Coffee + Code = ❤️  
+### 🎯 Fun Facts
+- 🐧 Linux power user
+- 🎮 Gamer after hours
+- ☕ Coffee + Code = ❤️
 
 ---
 
-<!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" />
 </p>
