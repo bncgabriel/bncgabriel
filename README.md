@@ -8,7 +8,10 @@
 ---
 
 ### ⚡ About Me
-💡 Passionate about **clean code** and **scalable architecture** 🌱 Currently learning **Spring WebFlux & Reactive Programming** 🛠️ Tech Enthusiast: **Java, Python, DevOps & Cloud** 📫 Contact: **gabrielbenicioo@gmail.com**
+- 💡 Passionate about **clean code** and **scalable architecture**  
+- 🌱 Currently learning **Spring WebFlux & Reactive Programming**  
+- 🛠️ Tech Enthusiast: **Java, Python, DevOps & Cloud**  
+- 📫 Reach me at: **gabrielbenicioo@gmail.com**
 
 ---
 
@@ -36,12 +39,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-
-  <img src="https://github-readme-stats-git-master-gabriel-benicios-projects.vercel.app/api?username=bncgabriel&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-five-iota-70.vercel.app/api?username=bncgabriel&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://streak-stats.demolab.com?user=bncgabriel&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bncgabriel&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-five-iota-70.vercel.app/api/top-langs/?username=bncgabriel&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -51,16 +53,16 @@
 ---
 
 ### 🚀 Featured Projects
-🔹 [📦 FastAPI Project Template](#) – Boilerplate for scalable APIs  
-🔹 [📝 Spring Boot CRUD API](#) – REST principles + clean architecture  
-🔹 [⚡ Reactive WebFlux App](#) – Async & non-blocking programming  
+- 📦 [FastAPI Project Template](#) – Boilerplate for scalable APIs  
+- 📝 [Spring Boot CRUD API](#) – REST principles + clean architecture  
+- ⚡ [Reactive WebFlux App](#) – Async & non-blocking programming  
 
 ---
 
 ### 🎯 Fun Facts
-- 🐧 Linux power user
-- 🎮 Gamer after hours
-- ☕ Coffee + Code = ❤️
+- 🐧 Linux power user  
+- 🎮 Gamer after hours  
+- ☕ Coffee + Code = ❤️  
 
 ---
 
